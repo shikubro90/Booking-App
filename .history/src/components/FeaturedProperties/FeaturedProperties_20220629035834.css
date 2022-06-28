@@ -1,0 +1,23 @@
+.fp{
+    width: 100%;
+    max-width: 1024px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.fpItem{
+    flex: 1;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.fpTitle{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10;
+}
+.fpImage{
+    width: 100%;
+    object-fit: cover;
+}
