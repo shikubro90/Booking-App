@@ -1,0 +1,9 @@
+.listContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.listWrapper{
+    display: flex;
+    gap: 20px;
+}

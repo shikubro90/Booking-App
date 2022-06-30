@@ -1,0 +1,10 @@
+.listContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.listWrapper{
+    wi
+    display: flex;
+    gap: 20px;
+}

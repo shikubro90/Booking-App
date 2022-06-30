@@ -1,0 +1,11 @@
+.footer{
+    width: 100%;
+    max-width: 1024px;
+    font-size: 12px;
+}
+
+.fList{
+    
+    display: flex;
+    justify-content: space-between;
+}
