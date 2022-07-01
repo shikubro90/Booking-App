@@ -1,0 +1,30 @@
+.listContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.listWrapper{
+    width: 100%;
+    max-width: 1024px;
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.listSearch{
+    flex: 1;
+    background-color: #febb02;
+    border-radius: 10px;
+    position: static;
+    top: 10px;
+}
+
+.listSearch{
+    display: flex;
+    
+}
+
+.listResult{
+    flex: 3;
+}
+
