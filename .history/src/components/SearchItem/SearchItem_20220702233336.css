@@ -1,0 +1,9 @@
+.searchItem{
+    border: 1px solid lightgray;
+    bo
+}
+.siItemImage{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+}
