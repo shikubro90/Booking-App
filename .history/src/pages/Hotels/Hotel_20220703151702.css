@@ -1,0 +1,12 @@
+.hotelContainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.hotelWrapper{
+    width: 100%;
+    max-width: 1024px;
+    df
+    flex-direction: column;
+    gap: 10px;
+}

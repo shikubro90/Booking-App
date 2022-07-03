@@ -1,0 +1,30 @@
+.mail{
+    margin-top: 50px;
+    height: 200;
+    background-color: #003580;
+    padding: 50px;
+    
+    
+}
+.mailContainer{
+    
+
+}
+.mailContainer>div>input{
+    width: 300px;
+    height: 30px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.mailContainer>div>button{
+    height: 50px;
+    background-color: #0071c2;
+    font-weight: 500;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+}

@@ -1,0 +1,45 @@
+.hotelContainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.hotelWrapper{
+    width: 100%;
+    max-width: 1024px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.titleWithButt{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.hotelImgWrapper{
+    width: 33%;
+}
+.hotelAddress{
+    font-size: 12px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.hotelDistance{
+    color: #0071c2;
+    font-weight: 500;
+}
+.hotelPriceHighLight{
+    color: #008009;
+    font-weight: 500;
+}
+.hotelImg{
+    width: 100%;
+}
+.hotelTitle{
+    font-size: 24px;
+}
+.hotelImage{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
