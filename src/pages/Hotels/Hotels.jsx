@@ -11,7 +11,6 @@ const Hotels = () => {
 
     const [slideNumber, setSlideNumbre] = useState(0)
     const [open, setOpen] = useState(false)
-    console.log(slideNumber);
     
 
 
